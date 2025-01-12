@@ -1,5 +1,6 @@
 # password_generator
 v1.0
+
 At the icon there is a fisherman. Because in Turkish there is a phrase which used for who goes to fishing: "Rastgele". In English nearest words that i found 'randomly' and 'by chance'. 
 
 This application created for password generation. When you push the generate button password generated and save randPwd.txt file. 
