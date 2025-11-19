@@ -6,7 +6,7 @@ At the icon there is a fisherman. Because in Turkish there is a phrase which use
 This application created for password generation. When you push the generate button password generated and save randPwd.txt file. 
 For run code you do not have to do steps down below. You can use this code also on ide with run button.
 
-It is tested on Ubuntu 24.04 LTS distrbition. İt works well. 
+It is tested on Ubuntu 24.04 LTS distrbition. It works well. 
 
 For transforming this code to an desktop application:
   on Linux: 
